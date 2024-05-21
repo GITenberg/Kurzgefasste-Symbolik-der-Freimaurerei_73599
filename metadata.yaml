@@ -1,0 +1,39 @@
+_repo: Kurzgefasste-Symbolik-der-Freimaurerei_73599
+_version: 0.0.1
+alternative_title: Kurzgefasste Symbolik der Freimaurerei
+creator:
+  author:
+    agent_name: Henne am Rhyn, Otto
+    aliases:
+    - Henne, Otto
+    - Rhyn, Otto Henne am
+    - Henne-Amrhyn, Otto
+    - Am Rhyn, Otto Henne
+    birthdate: 1828
+    deathdate: 1914
+    gutenberg_agent_id: '57134'
+    url: http://www.gutenberg.org/2009/agents/57134
+    wikipedia: https://de.wikipedia.org/wiki/Otto_Henne_am_Rhyn
+description: ''
+gutenberg_issued: '2024-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73599'
+language: de
+pgterms:marc905: 20170107123114henneamrhy
+pgterms:marc906: '1906'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This transcription was produced from images generously made available by Bayerische
+  Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aBerlin :$bFranz Wunder, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bücherei für Freimaurer. [Heft] 11-12
+subjects:
+- !lcsh 'Freemasonry -- Symbolism'
+- !lcc 'HS'
+- GITenberg
+title: Kurzgefaßte Symbolik der Freimaurerei.
+url: http://www.gutenberg.org/ebooks/73599
