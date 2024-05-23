@@ -1,6 +1,9 @@
 _repo: Kurzgefasste-Symbolik-der-Freimaurerei_73599
 _version: 0.1.0
 alternative_title: Kurzgefasste Symbolik der Freimaurerei
+covers:
+- cover_type: archival
+  image_path: 73599-h/images/cover.jpg
 creator:
   author:
     agent_name: Henne am Rhyn, Otto
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57134
     wikipedia: https://de.wikipedia.org/wiki/Otto_Henne_am_Rhyn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73599#Kurzgefasste-Symbolik-der-Freimaurerei
 gutenberg_issued: '2024-05-11'
 gutenberg_type: Text
 identifiers:
